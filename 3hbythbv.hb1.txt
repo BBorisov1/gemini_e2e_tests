@@ -1,0 +1,17 @@
+﻿test commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   es6/spec/klasbahis/sportsbook_page_spec.js
+#
+# Changes not staged for commit:
+#	modified:   .gemini.yml
+#	modified:   .gitignore
+#	deleted:    scripts/check_xvfb_running.sh
+#	deleted:    scripts/run_protractor.sh
+#	deleted:    scripts/set_display.sh
+#
+
